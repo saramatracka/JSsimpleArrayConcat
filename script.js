@@ -3,8 +3,7 @@ var maleNames = ['Piotrek', 'Marek', 'Arek', 'Jarek'];
 
 var allNames = test.concat(femaleNames, maleNames)
 
-var newName = 'Marian' {
-    if (allNames.indexOf(newName) === -1) {
-        push(allNames);
-    }
+var newName = 'Marian'
+if (allNames.indexOf(newName) === -1) {
+    allNames.push();
 }
